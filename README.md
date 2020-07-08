@@ -10,6 +10,6 @@ Running the application locally
 Clone the application into your local machine
 Import as Maven project into your IDE.
 To run a Spring Boot application on your local machine. Run as Java application the main method in the com.power.schoology.SchoologyApplication class from your IDE.
-
+Application will start and listen @ http://localhost:8080
 Try other way
 Right click on the project --> Run As -> Maven build - clean install
